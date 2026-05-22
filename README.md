@@ -1,14 +1,13 @@
-# 👋 Ami here!
+# Halloo crazy coders, Ami here 👋
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3>🚀 Computer Science & Engineering Undergrad @ VIT</h3>
       <p>I build intelligent, full-stack systems and high-performance computer vision pipelines. I enjoy solving architectural bottlenecks and turning complex math into functional automation frameworks.</p>
-      <p><i>"Debugging the logic layer of reality, one optimized protocol at a time."</i> 🧩</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atmihaa-06&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Atmihaa-06&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -36,7 +35,7 @@
 ## 📊 Git Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atmihaa-06&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ami's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Atmihaa-06&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ami's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atmihaa-06&theme=dracula&hide_border=true" alt="Ami's GitHub Streak" width="48%" />
 </p>
 
