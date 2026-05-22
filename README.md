@@ -1,14 +1,13 @@
-# 👋 Hallooo crazy coders, I'm Ami!
+# 👋 Halloo crazy coders, Ami here!
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <h3>🚀 Computer Science & Engineering Undergrad @ VIT</h3>
       <p>I build intelligent, full-stack systems and high-performance computer vision pipelines. I enjoy solving architectural bottlenecks and turning complex math into functional automation frameworks.</p>
-      <p><i>"Debugging the logic layer of reality, one optimized protocol at a time."</i> 🧩</p>
     </td>
-    <td width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmihaa-06&layout=compact&theme=vision-theme&hide_border=true" alt="Top Languages" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmihaa-06&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -19,7 +18,7 @@
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Frameworks** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Libraries & Tools** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
@@ -42,9 +41,9 @@
 
 ---
 
-## ⚡ Connect
+## 🤝 Connect
 
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
