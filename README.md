@@ -42,17 +42,6 @@
 * **Performance Engineering:** Eliminating environment dependency conflicts, processing overhead, and memory bottlenecks.
 
 ---
-
-## 🎖️ Personal Achievements
-
-<p align="center">
-  <!-- Example: Custom badges for your specific milestones -->
-  <img src="https://img.shields.io/badge/L'Oréal-Brandstorm_2026-7A3E3E?style=for-the-badge&logo=loreal&logoColor=white" alt="L'Oréal Brandstorm" />
-  <img src="https://img.shields.io/badge/IoT_&_Robotics-IIT_Madras-00599C?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT Workshop" />
-  <img src="https://img.shields.io/badge/Web_Dev-Hackathon_Participant-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="Hackathon" />
-</p>
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
