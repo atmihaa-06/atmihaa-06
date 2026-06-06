@@ -1,3 +1,17 @@
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Atmihaa%20Moorthy&fontSize=80&fontColor=ffffff"/>
+</div>
+
+<!-- ===================== TYPING ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=FFB6C1&center=true&vCenter=true&width=700&lines=AI+Research+Enthusiast;Frontend+%26+UI%2FUX+Designer;Open+Source+Contributor;Turning+Ideas+Into+Reality"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atmihaa-06&color=ff69b4&style=flat"/>
+</div>
+
 # Halloo crazy coders, Ami here 👋
 
 <table align="center" width="100%">
