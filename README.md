@@ -40,6 +40,15 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atmihaa-06&show_icons=true&theme=dracula&count_private=true" alt="Ami's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atmihaa-06&layout=compact&theme=dracula" alt="Ami's Top Languages" />
+</p>
 
 ## 🤝 Connect
 
