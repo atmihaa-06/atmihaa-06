@@ -38,13 +38,16 @@
 ---
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atmihaa-06&show_icons=true&theme=dracula" alt="Ami's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmihaa-06&layout=compact&theme=dracula" alt="Ami's Top Languages" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atmihaa-06&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atmihaa-06&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atmihaa-06&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atmihaa-06&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atmihaa-06&theme=dracula&utcOffset=8)
+![](https://streak-stats.demolab.com?user=atmihaa-06&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
+</div>
 ## 🤝 Connect
 
 <p align="left">
