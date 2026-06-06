@@ -28,14 +28,6 @@
 * **Performance Engineering:** Eliminating environment dependency conflicts, processing overhead, and memory bottlenecks.
 
 ---
-
-## 🏆 Git Achievements
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atmihaa-06&theme=dracula&hide_border=true" alt="Ami's GitHub Streak" width="60%" />
-</p>
-
----
 ## 📊 GitHub Analytics
 
 <div align="center">
