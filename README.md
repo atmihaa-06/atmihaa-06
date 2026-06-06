@@ -32,10 +32,6 @@
 ## 🏆 Git Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Atmihaa-06&theme=dracula&no-bg=true&margin-w=15" alt="Ami's GitHub Trophies" /></a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atmihaa-06&theme=dracula&hide_border=true" alt="Ami's GitHub Streak" width="60%" />
 </p>
 
@@ -43,13 +39,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atmihaa-06&show_icons=true&theme=dracula&count_private=true" alt="Ami's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atmihaa-06&show_icons=true&theme=dracula" alt="Ami's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atmihaa-06&layout=compact&theme=dracula" alt="Ami's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmihaa-06&layout=compact&theme=dracula" alt="Ami's Top Languages" />
 </p>
-
 ## 🤝 Connect
 
 <p align="left">
